@@ -12,4 +12,4 @@ jobs:
     - name: Build backend
       run: |
         cd market-tracker-backend
-        ./gradlew build
+        ./gradlew quarkusBuild
